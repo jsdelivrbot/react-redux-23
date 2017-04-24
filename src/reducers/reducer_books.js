@@ -1,8 +1,8 @@
 export default function () {
   return [
-    { title: "GFYS"},
-    { title: "Ultimate Guitar"},
-    { title: "Blues Shoes"},
-    { title: "Stratocater Shop"}
+    { title: "GFYS", pages: 36},
+    { title: "Ultimate Guitar", pages: 314},
+    { title: "Blues Shoes", pages: 556},
+    { title: "Stratocater Shop", pages: 456}
   ]
 }
