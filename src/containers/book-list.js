@@ -11,7 +11,7 @@ export class BookList extends Component  {
         <li 
         key={book.title} 
         onClick={() => this.props.selectBook(book)}
-        className='list-group-item'>
+        className='list-group-item pointer'>
         {book.title}
         </li>
       );
